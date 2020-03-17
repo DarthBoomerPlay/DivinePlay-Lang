@@ -86,6 +86,8 @@ quest-end:
 - '%rewards%'
 - ''
 
+quest1-tutorial-character: Декроу
+
 quest1-tutorial-m1: '&7[%dialog_number%] &2Декроу: &aОу, ты очнулся!'
 quest1-tutorial-m2: '&7[%dialog_number%] &2Декроу: &aОтлично, пока мы ехали наша повозка врезалась. Как видишь от нее почти ничего не осталось.'
 quest1-tutorial-m3: '&7[%dialog_number%] &2Декроу: &aСлава богу мы рядом со входом, видишь те ворота? 'Они нам и нужны, веди меня.'
