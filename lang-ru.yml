@@ -1,6 +1,6 @@
-menu-selectclass: Выбор класса
+menu-selectclass: 'Выбор класса'
 
-menu-selectclass-warrior-name: &fВыбрать &6Воин
+menu-selectclass-warrior-name: '&fВыбрать &6Воин'
 menu-selectclass-warrior-lore:
 - ''
 - '&6Урон: %center_bar_4%'
@@ -15,7 +15,7 @@ menu-selectclass-warrior-lore:
 - '&7заклинаниям.'
 - ''
 
-menu-selectclass-archer-name: &fВыбрать &6Лучник
+menu-selectclass-archer-name: '&fВыбрать &6Лучник'
 menu-selectclass-archer-lore:
 - ''
 - '&6Урон: %center_bar_4%'
@@ -29,7 +29,7 @@ menu-selectclass-archer-lore:
 - '&7но слабой защитой'
 - ''
 
-menu-selectclass-mage-name: &fВыбрать &6Маг
+menu-selectclass-mage-name: '&fВыбрать &6Маг'
 menu-selectclass-mage-lore:
 - ''
 - '&6Урон: %center_bar_2%'
@@ -44,7 +44,7 @@ menu-selectclass-mage-lore:
 - '&7урон.'
 - '&7'
 
-menu-selectclass-shaman-name: &fВыбрать &6Шаман
+menu-selectclass-shaman-name: '&fВыбрать &6Шаман'
 menu-selectclass-shaman-lore:
 - ''
 - '&6Урон: %center_bar_5%'
@@ -59,7 +59,7 @@ menu-selectclass-shaman-lore:
 - '&7возмещают его защиту.'
 - '&7'
 
-menu-selectclass-paladin-name: &fВыбрать &6Паладин
+menu-selectclass-paladin-name: '&fВыбрать &6Паладин'
 menu-selectclass-paladin-lore:
 - ''
 - '&6Урон: %center_bar_4%'
@@ -86,7 +86,7 @@ quest-end:
 - '%rewards%'
 - ''
 
-quest1-tutorial-character: Декроу
+quest1-tutorial-character: 'Декроу'
 
 quest1-tutorial-m1: '&7[%dialog_number%] &2Декроу: &aОу, ты очнулся!'
 quest1-tutorial-m2: '&7[%dialog_number%] &2Декроу: &aОтлично, пока мы ехали наша повозка врезалась. Как видишь от нее почти ничего не осталось.'
