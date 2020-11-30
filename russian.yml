@@ -3,3 +3,16 @@ message-new-level:
 - '§6                               §a§k §6 §6НОВЫЙ УРОВЕНЬ! §a§k '
 - '§7                       У вас теперь §a{level} §3Divine уровень!'
 - '§a&l▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪'
+
+lobby-scoreboard-title: '§b§lDIVINEPLAY'
+lobby-scoreboard-lines:
+- ''
+- 'Ранг: {rank}'
+- 'Магическая пыль: §d{money}'
+- ''
+- 'Уровень: §b{level}'
+- 'Опыт: §a{curXP}§8/§a{needXP}'
+- ''
+- 'Сервер: §a{server}'
+- ''
+- '§ewww.divineplay.ru'
