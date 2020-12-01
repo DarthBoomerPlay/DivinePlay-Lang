@@ -17,4 +17,13 @@ lobby-scoreboard-lines:
 - ''
 - '§ewww.divineplay.ru'
 
-lobby-donater-join: '{player} &6подключился к лобби!'
+lobby-items-menu-title: '§aИгровое меню §7(ПКМ)'
+lobby-items-menu-lore: '§7Нажмите, чтобы открыть игровое меню.'
+lobby-items-profile-title: '§aПрофиль §7(ПКМ)'
+lobby-items-profile-lore: '§7Нажмите, чтобы открыть ваш профиль.'
+lobby-items-gadgets-title: '§aГаджеты §7(ПКМ)'
+lobby-items-gadgets-lore: '§7Нажмите, чтобы открыть меню гаджетов.'
+lobby-items-lobbys-title: '§aВыбор Лобби §7(ПКМ)'
+lobby-items-lobbys-lore: '§7Нажмите, чтобы открыть меню выбора лобби.'
+
+lobby-donater-join: '{player} §6подключился к лобби!'
