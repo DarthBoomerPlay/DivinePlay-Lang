@@ -16,3 +16,5 @@ lobby-scoreboard-lines:
 - 'Сервер: §a{server}'
 - ''
 - '§ewww.divineplay.ru'
+
+lobby-donater-join: '{player} &6подключился к лобби!'
