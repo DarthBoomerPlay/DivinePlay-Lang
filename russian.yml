@@ -165,4 +165,6 @@ donatemenu-divine-lore:
 - ''
 - '§7Стоимость: §a2,499 рублей'
 
+donate-click-message: '§b§lDivinePlay §8| §fКупить привилегии можно на сайте: §cwww.divineplay.ru'
+
 lobby-donater-join: '{player} §6подключился к лобби!'
