@@ -167,4 +167,14 @@ donatemenu-divine-lore:
 
 donate-click-message: '§b§lDivinePlay §8| §fКупить привилегии можно на сайте: §cwww.divineplay.ru'
 
+profilemenu-title: 'Профиль'
+profilemenu-head-title: '§aИнформация о персонаже'
+profilemenu-head-lore:
+- '§7Ранг: {rank}'
+- '§7Уровень: §a{level}'
+- '§7Опыт до следующего уровня: §6{needXP}'
+- '§7Магическая пыль: §d{dust}'
+
+profilemenu-
+
 lobby-donater-join: '{player} §6подключился к лобби!'
