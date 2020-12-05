@@ -1,10 +1,10 @@
 message-new-level:
 - '§a&l▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪'
 - '§6                               §a§k §6 §6НОВЫЙ УРОВЕНЬ! §a§k '
-- '§7                       У вас теперь §a{level} §3Divine уровень!'
+- '§7                       У вас теперь §a{level} §3Jetrix уровень!'
 - '§a&l▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪'
 
-lobby-scoreboard-title: '§b§lDIVINEPLAY'
+lobby-scoreboard-title: '§d§lJETRIX'
 lobby-scoreboard-lines:
 - ''
 - 'Ранг: {rank}'
@@ -15,7 +15,7 @@ lobby-scoreboard-lines:
 - ''
 - 'Сервер: §a{server}'
 - ''
-- '§ewww.divineplay.ru'
+- '§ewww.jetrix.fun'
 
 lobby-items-menu-title: '§aИгровое меню §7(ПКМ)'
 lobby-items-menu-lore: '§7Нажмите, чтобы открыть игровое меню.'
@@ -78,6 +78,10 @@ lobby-gamemenu-bedwars-lore:
 - ''
 - '§a▸ Нажмите, чтобы подключиться'
 - '§7Играют: {server}'
+
+menu-arrow-back-title: '§aВернуться назад'
+menu-arrow-back-lore:
+- '§7Возращает на страницу назад'
 
 donatemenu-title: 'Описание привилегий'
 donatemenu-vip-title: '§aVIP'
@@ -165,7 +169,7 @@ donatemenu-divine-lore:
 - ''
 - '§7Стоимость: §a2,499 рублей'
 
-donate-click-message: '§b§lDivinePlay §8| §fКупить привилегии можно на сайте: §cwww.divineplay.ru'
+donate-click-message: '§d§lJETRIX §8| §fКупить привилегии можно на сайте: §cwww.jetrix.fun'
 
 profilemenu-title: 'Профиль'
 profilemenu-head-title: '§aИнформация о персонаже'
@@ -175,6 +179,98 @@ profilemenu-head-lore:
 - '§7Опыт до следующего уровня: §6{needXP}'
 - '§7Магическая пыль: §d{dust}'
 
-profilemenu-
+profilemenu-social-title: '§aСоциальные сети'
+profilemenu-social-lore:
+- '§7ВКонтакте: §evk.com/divine.play'
+- '§7Дискорд: §ewww.divineplay.ru/discord'
+- '§7Сайт: §ewww.divineplay.ru'
+- '§7Форум: §eforum.divineplay.ru'
+
+profilemenu-pluscolor-title: '§aЦвет ранга QUANTUM+'
+profilemenu-pluscolor-lore:
+- '§7Игроки, имеющие привилегию'
+- '§eQUANTUM§c+§7, могут разблокировать'
+- '§7переключение цвета своего знака +.'
+- ''
+- '§eНажмите, чтобы изменить!'
+
+profilemenu-achivements-title: '§aДостижения'
+profilemenu-achivements-lore:
+- '§7Отслеживайте свой прогресс'
+- '§7по мере того, как получите'
+- '§7достижения и накопите очки.'
+- ''
+- '§eНажмите, чтобы просмотреть достижения!'
+
+profilemenu-levels-title: '§aУровень Jetrix'
+profilemenu-levels-lore:
+- '§7Играя и выполняя задания,'
+- '§7вы получаете §3Опыт Jetrix§7,'
+- '§7который необходим для поднятия'
+- '§7уровня и получение новых наград!'
+- ''
+- '§3Divine Уровень §a{currentXP} {progress} §3{percent}'
+- ''
+- '§7Опыта до следующего уровня: §b{needXP}'
+- ''
+- '§eНажмите, чтобы увидеть свои награды!'
+
+profilemenu-language-title: '§aВыбрать язык'
+profilemenu-language-lore:
+- '§7Смена языка.'
+- ''
+- '§7Доступны на данный момент:'
+- '  §f* Русский'
+- '  §f* English'
+- ''
+- '§7Другие языки появятся в ближайшее время!'
+- ''
+- '§eНажмите, чтобы сменить язык!'
+
+languagemenu-title: 'Выбор языка'
+
+languagemenu-russian-title: '§aРусский'
+languagemenu-russian-lore: 
+- '§7Изменяет ваш язык на Русский'
+- ''
+- '§eНажмите, чтобы изменить язык!'
+
+languagemenu-english-title: '§aEnglish'
+languagemenu-english-lore: 
+- '§7Изменяет ваш язык на English'
+- ''
+- '§eНажмите, чтобы изменить язык!'
+
+languagemenu-changed: '§d§lJETRIX §8| §fВаш язык изменен на {language}'
+
+pluscolormenu-title: 'Цвет ранга'
+pluscolormenu-status-need: '§cНеобходим §6QUANTUM§c+'
+pluscolormenu-status-open: '§3Разблокируется на {level} Jetrix уровне'
+pluscolormenu-status-change: '§eНажмите, чтобы выбрать!'
+pluscolormenu-status-already: '§aУже выбран!'
+
+pluscolormenu-lvl0-title: '§aКрасный цвет'
+pluscolormenu-lvl35-title: '§aЗеленый цвет'
+pluscolormenu-lvl45-title: '§aЖелтый цвет'
+pluscolormenu-lvl55-title: '§aРозовый цвет'
+pluscolormenu-lvl65-title: '§aБелый цвет'
+pluscolormenu-lvl75-title: '§aСиний цвет'
+pluscolormenu-lvl85-title: '§aТемно-Зеленый цвет'
+pluscolormenu-lvl95-title: '§aТемно-Красный цвет'
+pluscolormenu-lvl150-title: '§aБирюзовый цвет'
+pluscolormenu-lvl170-title: '§aФиолетовый цвет'
+pluscolormenu-lvl200-title: '§aТемно-Серый цвет'
+pluscolormenu-lvl220-title: '§aЧерный цвет'
+pluscolormenu-lvl250-title: '§aЗолотой цвет'
+
+pluscolormenu-show-lore:
+- '§7Пример: §6{prefix}'
+- ''
+- '§7Отображается в Табе, а также в чате'
+- '§7и при входев лобби.'
+- ''
+- '{status}'
+
+pluscolormenu-changed: '§d§lJETRIX §8| §fЦвет плюса изменен на {color}'
 
 lobby-donater-join: '{player} §6подключился к лобби!'
