@@ -26,6 +26,8 @@ lobby-items-gadgets-lore: '§7Нажмите, чтобы открыть меню
 lobby-items-lobbys-title: '§aВыбор Лобби §7(ПКМ)'
 lobby-items-lobbys-lore: '§7Нажмите, чтобы открыть меню выбора лобби.'
 
+lobby-gamemenu-title: 'Главное меню'
+
 lobby-gamemenu-hub-title: '§aГлавное лобби'
 lobby-gamemenu-hub-lore: '§7Вернуться в Главное лобби'
 
