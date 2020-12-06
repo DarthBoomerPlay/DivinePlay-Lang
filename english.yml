@@ -7,13 +7,13 @@ message-new-level:
 lobby-scoreboard-title: '§d§lJETRIX'
 lobby-scoreboard-lines:
 - ''
-- 'Ранг: {rank}'
-- 'Магическая пыль: §d{money}'
+- 'Rank: {rank}'
+- 'Magic Dust: §d{money}'
 - ''
-- 'Уровень: §b{level}'
-- 'Опыт: §a{curXP}§8/§a{needXP}'
+- 'Level: §b{level}'
+- 'XP: §a{curXP}§8/§a{needXP}'
 - ''
-- 'Сервер: §a{server}'
+- 'Server: §a{server}'
 - ''
 - '§ewww.jetrix.fun'
 
