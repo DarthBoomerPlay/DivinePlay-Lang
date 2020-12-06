@@ -336,6 +336,26 @@ gadgetsmenu-costumes-lore:
 - ''
 - '§eНажмите, чтобы посмотреть!'
 
+gadgetsmenu-status-not:
+- '§eВы можете получить эту косметику'
+- '§eиз §bСундуков§e.'
+- ''
+- '§cУ вас нету данной косметики!'
+gadgetsmenu-status-change:
+- '§eНажмите, чтобы выбрать!'
+gadgetsmenu-status-have:
+- '§aНажмите, чтобы убрать!'
+
+gadgetsmenu-example-lore:
+- ''
+- '§7Редкость: {rare}'
+- ''
+
+gadgetsmenu-rarity-common: 'ОБЫЧНЫЙ'
+gadgetsmenu-rarity-rare: 'РЕДКИЙ'
+gadgetsmenu-rarity-epic: 'ЭПИЧЕСКИЙ'
+gadgetsmenu-rarity-legendary: 'ЛЕГЕНДАРНЫЙ'
+
 gadgets-pets-cat-title: 'Кот'
 gadgets-pets-cat-customname: '§aКот {player}'
 gadgets-pets-dog-title: 'Собака'
@@ -350,5 +370,10 @@ gadgets-pets-villager-title: 'Житель'
 gadgets-pets-villager-customname: '§aЖитель {player}'
 gadgets-pets-sheep-title: 'Овца'
 gadgets-pets-sheep-customname: '§aОвца {player}'
+
+gadgetsmenu-petsmenu-title: 'Питомцы'
+
+gadgetsmenu-equip: '§d§lJETRIX §8| §fВы экипировали {gadget}'
+gadgetsmenu-dequip: '§d§lJETRIX §8| §fВы убрали {gadget}'
 
 lobby-donater-join: '{player} §6подключился к лобби!'
