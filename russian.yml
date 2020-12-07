@@ -4,6 +4,8 @@ message-new-level:
 - '§7                       У вас теперь §a{level} §3Jetrix уровень!'
 - '§a&l▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪'
 
+bossbar-text: '§cСКИДКИ 90% МНЕ ПОХУЙ Я ПИДОРАС'
+
 lobby-scoreboard-title: '§d§lJETRIX'
 lobby-scoreboard-lines:
 - ''
@@ -191,7 +193,7 @@ profilemenu-social-lore:
 profilemenu-pluscolor-title: '§aЦвет ранга QUANTUM+'
 profilemenu-pluscolor-lore:
 - '§7Игроки, имеющие привилегию'
-- '§eQUANTUM§c+§7, могут разблокировать'
+- '§6QUANTUM§c+§7, могут разблокировать'
 - '§7переключение цвета своего знака +.'
 - ''
 - '§eНажмите, чтобы изменить!'
