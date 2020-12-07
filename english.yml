@@ -4,6 +4,8 @@ message-new-level:
 - '§7                       У вас теперь §a{level} §3Jetrix уровень!'
 - '§a&l▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪'
 
+bossbar-text: '§c90% BUY MY ASS I PIDORAS'
+
 lobby-scoreboard-title: '§d§lJETRIX'
 lobby-scoreboard-lines:
 - ''
