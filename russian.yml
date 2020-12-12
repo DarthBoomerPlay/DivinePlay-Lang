@@ -399,7 +399,7 @@ nickbook-pageB-texts:
 - ''
 - '{custom}'
 - '{random}'
-nickbook-pageB-custom: '§0§lУстановить ник самому'
-nickbook-pageB-random: '§0§lУстановить случайный ник'
+nickbook-pageB-custom: 'Установить ник самому'
+nickbook-pageB-random: 'Установить случайный ник'
 
 lobby-donater-join: '{player} §6подключился к лобби!'
