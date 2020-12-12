@@ -380,4 +380,26 @@ gadgetsmenu-petsmenu-title: 'Питомцы'
 gadgetsmenu-equip: '§d§lJETRIX §8| §fВы экипировали {gadget}'
 gadgetsmenu-dequip: '§d§lJETRIX §8| §fВы убрали {gadget}'
 
+nickbook-nick: '§d§lJETRIX §8| §fТеперь вы: §a{fake}'
+nickbook-unnick: '§d§lJETRIX §8| §fВы вернули свой ник'
+
+nickbook-pageA-title: 'Выберите првиилегию'
+nickbook-pageA-texts:
+- 'Добро пожаловать в смену ника,'
+- 'для начала выберите привилегию,'
+- 'которая будет на этом нике:'
+- ''
+- '{ranks}'
+
+nickbook-pageB-title: 'Выберите тип ника'
+nickbook-pageB-texts:
+- 'Отлично, а теперь давай'
+- 'создадим сам ник, выбери как'
+- 'хочешь создать ник:'
+- ''
+- '{custom}'
+- '{random}'
+nickbook-pageB-custom: '§0§lУстановить ник самому'
+nickbook-pageB-random: '§0§lУстановить случайный ник'
+
 lobby-donater-join: '{player} §6подключился к лобби!'
