@@ -402,4 +402,10 @@ nickbook-pageB-texts:
 nickbook-pageB-custom: 'Установить ник самому'
 nickbook-pageB-random: 'Установить случайный ник'
 
+nickbook-sign-lines:
+- ''
+- '^^^^^^^^^^^^^^^'
+- 'Введите нужный'
+- 'вам ник'
+
 lobby-donater-join: '{player} §6подключился к лобби!'
