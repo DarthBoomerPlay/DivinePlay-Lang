@@ -279,6 +279,13 @@ pluscolormenu-changed: '§d§lJETRIX §8| §fЦвет плюса изменен 
 
 gadgetsmenu-title: 'Косметика'
 
+gadgetsmenu-cancel-title: '§aОчистить текущую косметику'
+gadgetsmenu-cancel-lore:
+- '§7Очищает текущую активные'
+- '§7косметики.'
+- ''
+- '§eНажмите, чтобы выбрать!'
+
 gadgetsmenu-coins-title: '§aКосметика'
 gadgetsmenu-coins-lore:
 - '§7Магическая пыль: §d{dust}'
@@ -355,10 +362,10 @@ gadgetsmenu-example-lore:
 - '§7Редкость: {rare}'
 - ''
 
-gadgetsmenu-rarity-common: 'ОБЫЧНЫЙ'
-gadgetsmenu-rarity-rare: 'РЕДКИЙ'
-gadgetsmenu-rarity-epic: 'ЭПИЧЕСКИЙ'
-gadgetsmenu-rarity-legendary: 'ЛЕГЕНДАРНЫЙ'
+gadgetsmenu-rarity-common: '§aОБЫЧНЫЙ'
+gadgetsmenu-rarity-rare: '§eРЕДКИЙ'
+gadgetsmenu-rarity-epic: '§5ЭПИЧЕСКИЙ'
+gadgetsmenu-rarity-legendary: '§6ЛЕГЕНДАРНЫЙ'
 
 gadgetsmenu-pets-cat-title: 'Кот'
 gadgets-pets-cat-customname: '§aКот {player}'
