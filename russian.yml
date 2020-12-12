@@ -286,6 +286,8 @@ gadgetsmenu-cancel-lore:
 - ''
 - '§eНажмите, чтобы выбрать!'
 
+gadgetsmenu-cancel-msg: '§d§lJETRIX §8| §fТекущая косметика была убрана'
+
 gadgetsmenu-coins-title: '§aКосметика'
 gadgetsmenu-coins-lore:
 - '§7Магическая пыль: §d{dust}'
