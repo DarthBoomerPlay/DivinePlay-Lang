@@ -389,7 +389,6 @@ nickbook-pageA-texts:
 - 'для начала выберите привилегию,'
 - 'которая будет на этом нике:'
 - ''
-- '{ranks}'
 
 nickbook-pageB-title: 'Выберите тип ника'
 nickbook-pageB-texts:
@@ -397,8 +396,6 @@ nickbook-pageB-texts:
 - 'создадим сам ник, выбери как'
 - 'хочешь создать ник:'
 - ''
-- '{custom}'
-- '{random}'
 nickbook-pageB-custom: 'Установить ник самому'
 nickbook-pageB-random: 'Установить случайный ник'
 
