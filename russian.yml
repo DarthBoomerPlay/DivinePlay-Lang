@@ -422,7 +422,7 @@ treasuremenu-common-lore:
 - ''
 - '§7Доступно сундуков: §a{key}'
 - ''
-- '§eНажмите чтобы открыть/купить'
+- '§eНажмите, чтобы открыть!'
 
 treasuremenu-rare-title: '§eРедкий сундук'
 treasuremenu-rare-lore:
@@ -436,7 +436,7 @@ treasuremenu-rare-lore:
 - ''
 - '§7Доступно сундуков: §a{key}'
 - ''
-- '§eНажмите чтобы открыть/купить'
+- '§eНажмите, чтобы открыть!'
 
 treasuremenu-mythic-title: '§dМагический сундук'
 treasuremenu-mythic-lore:
@@ -450,6 +450,31 @@ treasuremenu-mythic-lore:
 - ''
 - '§7Доступно сундуков: §a{key}'
 - ''
-- '§eНажмите чтобы открыть/купить'
+- '§eНажмите, чтобы открыть!'
+
+treasuremenu-shop-title: '§aМагазин сундуков'
+treasuremenu-shop-lore:
+- '§7Магическая пыль может быть'
+- '§7потрачена на сундуки, из'
+- '§7которых можно получить'
+- '§7различную косметику.'
+- ''
+- '§7Магическая пыль: §d{dust}'
+- ''
+- '§eНажмите, чтобы открыть!'
+
+treasureshop-lore:
+- ''
+- '§7Стоимость: §d{cost}'
+- ''
+- '§7У вас: §a{case}'
+- ''
+- '§eНажмите, чтобы купить!'
+
+treasureshop-title: 'Магазин сундуков'
 
 treasurechest-opened: '§d§lJETRIX §8| §fДанный сундук уже открывает другой игрок'
+treasurechest-not: '§d§lJETRIX §8| §fУ вас нету данных сундуков'
+
+treasurechest-notdust: '§d§lJETRIX §8| §fУ вас недостаточно магической пыли'
+treasurechest-buy: '§d§lJETRIX §8| §fВы успешно купили {case}'
