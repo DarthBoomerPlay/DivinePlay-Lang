@@ -625,3 +625,49 @@ achivements-lobby-unlockonegadget-title: 'Первая косметика'
 achivements-lobby-unlockonegadget-description: 'Разблокируйте первую вашу косметику.'
 achivements-lobby-unlockonegadget-lore:
 - '§7Разблокируйте первую вашу косметику.'
+
+
+
+achivements-skywars-killera-title: 'SkyWars Убийца I'
+achivements-skywars-killera-description: 'Убить 100 игроков на SkyWars.'
+achivements-skywars-killera-lore:
+- '§7Убить 100 игроков на SkyWars.'
+achivements-skywars-killerb-title: 'SkyWars Убийца II'
+achivements-skywars-killerb-description: 'Убить 200 игроков на SkyWars.'
+achivements-skywars-killerb-lore:
+- '§7Убить 200 игроков на SkyWars.'
+achivements-skywars-killerc-title: 'SkyWars Убийца III'
+achivements-skywars-killerc-description: 'Убить 500 игроков на SkyWars.'
+achivements-skywars-killerc-lore:
+- '§7Убить 500 игроков на SkyWars.'
+achivements-skywars-killerd-title: 'SkyWars Убийца IV'
+achivements-skywars-killerd-description: 'Убить 750 игроков на SkyWars.'
+achivements-skywars-killerd-lore:
+- '§7Убить 750 игроков на SkyWars.'
+achivements-skywars-killere-title: 'SkyWars Убийца VI'
+achivements-skywars-killere-description: 'Убить 1,000 игроков на SkyWars.'
+achivements-skywars-killere-lore:
+- '§7Убить 1,000 игроков на SkyWars.'
+
+
+
+achivements-bedwars-killera-title: 'BedWars Убийца I'
+achivements-bedwars-killera-description: 'Убить 100 игроков на BedWars.'
+achivements-bedwars-killera-lore:
+- '§7Убить 100 игроков на BedWars.'
+achivements-bedwars-killerb-title: 'BedWars Убийца II'
+achivements-bedwars-killerb-description: 'Убить 200 игроков на BedWars.'
+achivements-bedwars-killerb-lore:
+- '§7Убить 200 игроков на BedWars.'
+achivements-bedwars-killerc-title: 'BedWars Убийца III'
+achivements-bedwars-killerc-description: 'Убить 500 игроков на BedWars.'
+achivements-bedwars-killerc-lore:
+- '§7Убить 500 игроков на BedWars.'
+achivements-bedwars-killerd-title: 'BedWars Убийца IV'
+achivements-bedwars-killerd-description: 'Убить 750 игроков на BedWars.'
+achivements-bedwars-killerd-lore:
+- '§7Убить 750 игроков на BedWars.'
+achivements-bedwars-killere-title: 'BedWars Убийца VI'
+achivements-bedwars-killere-description: 'Убить 1,000 игроков на BedWars.'
+achivements-bedwars-killere-lore:
+- '§7Убить 1,000 игроков на BedWars.'
