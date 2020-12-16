@@ -550,3 +550,18 @@ achivements-menu-secret-title: 'Секретные достижения'
 achivements-menu-lobby-title: 'Lobby достижения'
 achivements-menu-skywars-title: 'SkyWars достижения'
 achivements-menu-bedwars-title: 'BedWars достижения'
+
+achivements-global-addfirstfriend-title: 'Дружба - это сила'
+achivements-global-addfirstfriend-description: 'Добавьте своего первого друга.'
+achivements-global-addfirstfriend-lore:
+- '§7Добавьте своего первого друга.'
+
+achivements-lobby-openchest-title: 'Первый сундук'
+achivements-lobby-openchest-description: 'Откройте свой первый сундук.'
+achivements-lobby-openchest-lore:
+- '§7Откройте свой первый сундук.'
+
+achivements-lobby-unlockonegadget-title: 'Первая косметика'
+achivements-lobby-unlockonegadget-description: 'Разблокируйте первую вашу косметику.'
+achivements-lobby-unlockonegadget-lore:
+- '§7Разблокируйте первую вашу косметику.'
