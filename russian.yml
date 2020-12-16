@@ -533,3 +533,20 @@ achivements-menumain-bedwars-lore:
 - '§7серверах.'
 - ''
 - '§eНажмите, чтобы открыть!'
+
+achivements-defaultmenu-lore:
+- '{description}'
+- ''
+- '§7Награда:'
+- '{rewards}'
+- ''
+- '{status}'
+
+achivements-defaultmenu-status-a: '§aРазблокировано!'
+achivements-defaultmenu-status-b: '§cЗаблокировано!'
+
+achivements-menu-global-title: 'Глобальные достижения'
+achivements-menu-secret-title: 'Секретные достижения'
+achivements-menu-lobby-title: 'Lobby достижения'
+achivements-menu-skywars-title: 'SkyWars достижения'
+achivements-menu-bedwars-title: 'BedWars достижения'
