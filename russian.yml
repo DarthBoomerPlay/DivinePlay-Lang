@@ -671,3 +671,17 @@ achivements-bedwars-killere-title: 'BedWars Убийца VI'
 achivements-bedwars-killere-description: 'Убить 1,000 игроков на BedWars.'
 achivements-bedwars-killere-lore:
 - '§7Убить 1,000 игроков на BedWars.'
+
+levelrewards-menu-title: 'Награды за уровень'
+levelrewards-menuitem-title: 'Награда за {l}-й уровень'
+levelrewards-menuitem-statusA: '§aВы уже получили эту награду!'
+levelrewards-menuitem-statusC: '§eНажмите, чтобы получить награду!'
+levelrewards-menuitem-statusB: '§cВы еще не можете получить эту награду!'
+levelrewards-menuitem-reward-dust: '§d+{dust} магической пыли'
+levelrewards-menuitem-reward-common: '§7+§6{chest} §fОбычных сундуков'
+levelrewards-menuitem-reward-rare: '§7+§6{chest} §eРедких сундуков
+levelrewards-menuitem-reward-mythic: '§7+§6{chest} §dМагических сундуков'
+
+levelrewards-menuitem-msg-statusC: '§d§lJETRIX §8| §fВы успешно получили награду!'
+levelrewards-menuitem-msg-statusA: '§d§lJETRIX §8| §fВы еще не можете получить эту награду'
+levelrewards-menuitem-msg-statusB: '§d§lJETRIX §8| §fВы уже получили эту награду'
