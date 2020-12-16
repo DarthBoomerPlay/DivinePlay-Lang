@@ -504,7 +504,7 @@ achivements-menumain-global-lore:
 - '§7сервере.'
 - ''
 - '§eНажмите, чтобы открыть!'
-achivements-menumain-lobby-title: '§aСекретные достижения'
+achivements-menumain-lobby-title: '§aLobby достижения'
 achivements-menumain-lobby-lore:
 - '§7Достижения, которые могут'
 - '§7быть выполнены в Lobby'
@@ -555,12 +555,72 @@ achivements-global-addfirstfriend-title: 'Дружба - это сила'
 achivements-global-addfirstfriend-description: 'Добавьте своего первого друга.'
 achivements-global-addfirstfriend-lore:
 - '§7Добавьте своего первого друга.'
+achivements-global-buyquantumplus-title: 'Купить QUANTUM+'
+achivements-global-buyquantumplus-description: 'Купите QUANTUM+.'
+achivements-global-buyquantumplus-lore:
+- '§7Купите §6QUANTUM§c+.'
+achivements-global-start-title: 'Новичок'
+achivements-global-start-description: 'Достигнуть 10 Уровень.'
+achivements-global-start-lore:
+- '§7Достигнуть 10 Уровень.'
+achivements-global-bivaliy-title: 'Бывалый'
+achivements-global-bivaliy-description: 'Достигнуть 30 Уровень.'
+achivements-global-bivaliy-lore:
+- '§7Достигнуть 30 Уровень.'
+achivements-global-old-title: 'Старичок'
+achivements-global-old-description: 'Достигнуть 50 Уровень.'
+achivements-global-old-lore:
+- '§7Достигнуть 50 Уровень.'
+achivements-global-veteran-title: 'Ветеран'
+achivements-global-veteran-description: 'Достигнуть 100 Уровень.'
+achivements-global-veteran-lore:
+- '§7Достигнуть 100 Уровень.'
+achivements-global-popular-title: 'Популярный'
+achivements-global-popular-description: 'Добавить Ютубера в друзья.'
+achivements-global-popular-lore:
+- '§7Добавить Ютубера в друзья.'
+achivements-global-semya-title: 'Большая семья'
+achivements-global-semya-description: 'Добавить 20 друзей.'
+achivements-global-semya-lore:
+- '§7Добавить 20 друзей.'
+achivements-global-party-title: 'Вечеринка'
+achivements-global-party-description: 'Создать группу.'
+achivements-global-party-lore:
+- '§7Создать группу.'
+
+
+
+achivements-secret-findleha-title: 'Найти Лёху'
+achivements-secret-findleha-description: 'Найдите Лёху в лобби.'
+achivements-secret-findleha-lore:
+- '§7Найдите Лёху в лобби.'
+achivements-secret-cmd-title: 'Секретная команда'
+achivements-secret-cmd-description: 'Пропишите секретную команду.'
+achivements-secret-cmd-lore:
+- '§7Пропишите секретную команду.'
+achivements-secret-seeblack-title: 'Увидеть пустоту'
+achivements-secret-seeblack-description: 'Упасть в пустоту в лобби.'
+achivements-secret-seeblack-lore:
+- '§7Упасть в пустоту в лобби.'
+achivements-secret-pushtplayers-title: 'Забивной'
+achivements-secret-pushtplayers-description: 'Ударить 10 игроков.'
+achivements-secret-pushtplayers-lore:
+- '§7Ударить 10 игроков.'
+achivements-secret-pushyoutuber-title: 'Избить ютубера'
+achivements-secret-pushyoutuber-description: 'Ударить Ютубера на любом сервере.'
+achivements-secret-pushyoutuber-lore:
+- '§7Ударить Ютубера в лобби.'
+achivements-secret-seeowner-title: 'Увидеть OWNER-а'
+achivements-secret-seeowner-description: 'Увидеть OWNER-а на любом сервере.'
+achivements-secret-seeowner-lore:
+- '§7Увидеть OWNER-а на любом сервере.'
+
+
 
 achivements-lobby-openchest-title: 'Первый сундук'
 achivements-lobby-openchest-description: 'Откройте свой первый сундук.'
 achivements-lobby-openchest-lore:
 - '§7Откройте свой первый сундук.'
-
 achivements-lobby-unlockonegadget-title: 'Первая косметика'
 achivements-lobby-unlockonegadget-description: 'Разблокируйте первую вашу косметику.'
 achivements-lobby-unlockonegadget-lore:
