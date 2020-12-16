@@ -87,6 +87,13 @@ menu-arrow-back-title: '§aВернуться назад'
 menu-arrow-back-lore:
 - '§7Возращает на страницу назад'
 
+menu-arrow-next-title: '§aСледующая страница'
+menu-arrow-next-lore:
+- '§7Перемещает на страницу вперед'
+menu-arrow-nback-title: '§aПредыдущая страница'
+menu-arrow-nback-lore:
+- '§7Перемещает на страницу назад'
+
 donatemenu-title: 'Описание привилегий'
 donatemenu-vip-title: '§aVIP'
 donatemenu-vip-lore:
