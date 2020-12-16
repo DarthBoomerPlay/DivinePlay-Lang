@@ -679,7 +679,7 @@ levelrewards-menuitem-statusC: '§eНажмите, чтобы получить �
 levelrewards-menuitem-statusB: '§cВы еще не можете получить эту награду!'
 levelrewards-menuitem-reward-dust: '§d+{dust} магической пыли'
 levelrewards-menuitem-reward-common: '§7+§6{chest} §fОбычных сундуков'
-levelrewards-menuitem-reward-rare: '§7+§6{chest} §eРедких сундуков
+levelrewards-menuitem-reward-rare: '§7+§6{chest} §eРедких сундуков'
 levelrewards-menuitem-reward-mythic: '§7+§6{chest} §dМагических сундуков'
 
 levelrewards-menuitem-msg-statusC: '§d§lJETRIX §8| §fВы успешно получили награду!'
