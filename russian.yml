@@ -389,7 +389,10 @@ gadgets-pets-villager-customname: '§aЖитель {player}'
 gadgetsmenu-pets-sheep-title: 'Овца'
 gadgets-pets-sheep-customname: '§aОвца {player}'
 
+gadgetsmenu-morph-pig-title: 'Свинья'
+
 gadgetsmenu-petsmenu-title: 'Питомцы'
+gadgetsmenu-morphmenu-title: 'Превращения'
 
 gadgetsmenu-equip: '§d§lJETRIX §8| §fВы экипировали {gadget}'
 gadgetsmenu-dequip: '§d§lJETRIX §8| §fВы убрали {gadget}'
