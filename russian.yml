@@ -403,8 +403,8 @@ gadgetsmenu-dequip: '§d§lJETRIX §8| §fВы убрали {gadget}'
 nickbook-nick: '§d§lJETRIX §8| §fТеперь вы: §a{fake}'
 nickbook-unnick: '§d§lJETRIX §8| §fВы вернули свой ник'
 
-nickbook-menuA-title: 'Выберите првиилегию'
-nickbook-menuB-title: 'Выберите тип ника'
+nickbook-menuG-title: 'Выберите првиилегию'
+nickbook-menuP-title: 'Выберите тип ника'
 
 nickbook-select: '§eНажмите, чтобы выбрать!'
 
