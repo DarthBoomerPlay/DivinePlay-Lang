@@ -396,6 +396,7 @@ gadgetsmenu-morph-irongolem-title: 'Железный Голем'
 
 gadgetsmenu-petsmenu-title: 'Питомцы'
 gadgetsmenu-morphmenu-title: 'Превращения'
+gadgetsmenu-gadgetmenu-title: 'Гаджеты'
 
 gadgetsmenu-equip: '§d§lJETRIX §8| §fВы экипировали {gadget}'
 gadgetsmenu-dequip: '§d§lJETRIX §8| §fВы убрали {gadget}'
