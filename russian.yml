@@ -420,6 +420,8 @@ nickbook-sign-lines:
 
 lobby-donater-join: '{player} §6подключился к лобби!'
 
+treasure-bossbar-text: '§fОсталось §a{sec} §fсекунд'
+
 treasuremenu-title: 'Меню сундуков'
 
 treasuremenu-common-title: '§aОбычный сундук'
