@@ -417,6 +417,7 @@ gadgetsmenu-petsmenu-title: 'Питомцы'
 gadgetsmenu-morphmenu-title: 'Превращения'
 gadgetsmenu-gadgetmenu-title: 'Гаджеты'
 gadgetsmenu-particlemenu-title: 'Частицы'
+gadgetsmenu-miniaturemenu-title: 'Миниатюрки'
 
 gadgetsmenu-gadgetmenu-pkm: '§7(ПКМ)'
 gadgetsmenu-gadget-cooldown: '§d§lJETRIX §8| §fВы сможете использовать через §a{s} сек.'
