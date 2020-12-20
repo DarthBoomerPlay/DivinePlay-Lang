@@ -403,9 +403,12 @@ gadgetsmenu-gadget-iceblaster-title: 'Ледяной Бластер'
 gadgetsmenu-gadget-ghostattack-title: 'Привиденья'
 gadgetsmenu-gadget-cannon-title: 'Пушка'
 
+gadgetsmenu-particle-mage-title: 'Маг'
+
 gadgetsmenu-petsmenu-title: 'Питомцы'
 gadgetsmenu-morphmenu-title: 'Превращения'
 gadgetsmenu-gadgetmenu-title: 'Гаджеты'
+gadgetsmenu-particlemenu-title: 'Частицы'
 
 gadgetsmenu-gadgetmenu-pkm: '§7(ПКМ)'
 gadgetsmenu-gadget-cooldown: '§d§lJETRIX §8| §fВы сможете использовать через §a{s} сек.'
