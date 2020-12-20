@@ -727,3 +727,17 @@ levelrewards-menuitem-reward-mythic: '§7+§6{chest} §dМагических с�
 levelrewards-menuitem-msg-statusC: '§d§lJETRIX §8| §fВы успешно получили награду!'
 levelrewards-menuitem-msg-statusA: '§d§lJETRIX §8| §fВы еще не можете получить эту награду'
 levelrewards-menuitem-msg-statusB: '§d§lJETRIX §8| §fВы уже получили эту награду'
+
+selectservermenu-title: 'Выбор сервера'
+selectservermenu-lore:
+- '§fСтатус: {status}'
+- '§fОнлайн: {online}'
+- ''
+- '{click}'
+
+selectservermenu-status-avaible: '§aДоступен'
+selectservermenu-status-unavaible: '§cНедоступен'
+
+selectservermenu-click-avaible: '§eНажмите, чтобы подключится!'
+selectservermenu-click-unavaible: '§cСервер переполнен!'
+selecterservermenu-click-already: '§aВы уже находитесь тут!'
