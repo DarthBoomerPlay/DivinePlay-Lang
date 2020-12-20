@@ -728,8 +728,8 @@ levelrewards-menuitem-msg-statusC: '§d§lJETRIX §8| §fВы успешно п�
 levelrewards-menuitem-msg-statusA: '§d§lJETRIX §8| §fВы еще не можете получить эту награду'
 levelrewards-menuitem-msg-statusB: '§d§lJETRIX §8| §fВы уже получили эту награду'
 
-selectservermenu-title: 'Выбор сервера'
-selectservermenu-lore:
+selecterservermenu-title: 'Выбор сервера'
+selecterservermenu-lore:
 - '§fСтатус: {status}'
 - '§fОнлайн: {online}'
 - ''
