@@ -735,9 +735,9 @@ selectservermenu-lore:
 - ''
 - '{click}'
 
-selectservermenu-status-avaible: '§aДоступен'
-selectservermenu-status-unavaible: '§cНедоступен'
+selecterservermenu-status-avaible: '§aДоступен'
+selecterservermenu-status-unavaible: '§cНедоступен'
 
-selectservermenu-click-avaible: '§eНажмите, чтобы подключится!'
-selectservermenu-click-unavaible: '§cСервер переполнен!'
+selecterservermenu-click-avaible: '§eНажмите, чтобы подключится!'
+selecterservermenu-click-unavaible: '§cСервер переполнен!'
 selecterservermenu-click-already: '§aВы уже находитесь тут!'
