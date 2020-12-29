@@ -102,7 +102,9 @@ donatemenu-iron-lore:
 - '§eОстальное можно узнать на'
 - '§eсайте: §awww.jetrix.fun'
 - ''
-- '§7Стоимость: §a149 рублей'
+- '§7Стоимость:'
+- '  §fМесяц: §a9 рублей'
+- '  §fНавсегда: §a39 рублей'
 donatemenu-vip-title: '§aVIP'
 donatemenu-vip-lore:
 - '§7Чат префикс: §a[VIP]'
@@ -113,7 +115,9 @@ donatemenu-vip-lore:
 - '§eОстальное можно узнать на'
 - '§eсайте: www.divineplay.ru'
 - ''
-- '§7Стоимость: §a349 рублей'
+- '§7Стоимость:'
+- '  §fМесяц: §a29 рублей'
+- '  §fНавсегда: §a79 рублей'
 donatemenu-premium-title: '§ePREMIUM'
 donatemenu-premium-lore:
 - '§7Чат префикс: §e[PREMIUM]'
@@ -124,7 +128,9 @@ donatemenu-premium-lore:
 - '§eОстальное можно узнать на'
 - '§eсайте: www.divineplay.ru'
 - ''
-- '§7Стоимость: §a349 рублей'
+- '§7Стоимость:'
+- '  §fМесяц: §a59 рублей'
+- '  §fНавсегда: §a129 рублей'
 donatemenu-mvp-title: '§bMVP'
 donatemenu-mvp-lore:
 - '§7Чат префикс: §b[MVP]'
@@ -135,7 +141,9 @@ donatemenu-mvp-lore:
 - '§eОстальное можно узнать на'
 - '§eсайте: www.divineplay.ru'
 - ''
-- '§7Стоимость: §a649 рублей'
+- '§7Стоимость:'
+- '  §fМесяц: §a119 рублей'
+- '  §fНавсегда: §a580 рублей'
 donatemenu-quantum-title: '§6QUANTUM'
 donatemenu-quantum-lore:
 - '§7Чат префикс: §6[QUANTUM]'
@@ -146,7 +154,8 @@ donatemenu-quantum-lore:
 - '§eОстальное можно узнать на'
 - '§eсайте: www.divineplay.ru'
 - ''
-- '§7Стоимость: §a649 рублей'
+- '§7Стоимость:'
+- '  §fНавсегда: §a1999 рублей'
 donatemenu-quantump-title: '§6QUANTUM§c+'
 donatemenu-quantump-lore:
 - '§7Чат префикс: §6[QUANTUM§c+§6]'
@@ -158,7 +167,11 @@ donatemenu-quantump-lore:
 - '§eОстальное можно узнать на'
 - '§eсайте: www.divineplay.ru'
 - ''
-- '§7Стоимость: §a649 рублей'
+- '§7Стоимость:'
+- '  §fМесяц: §a400 рублей'
+- '  §f3 Месяца: §a900 рублей'
+- '  §f6 Месяцев: §a1600 рублей'
+- '  §fГод: §a1999 рублей'
 donatemenu-jetrix-title: '§dJETRIX'
 donatemenu-jetrix-lore:
 - '§7Чат префикс: §d[JETRIX]'
@@ -170,7 +183,8 @@ donatemenu-jetrix-lore:
 - '§eОстальное можно узнать на'
 - '§eсайте: www.divineplay.ru'
 - ''
-- '§7Стоимость: §a649 рублей'
+- '§7Стоимость:'
+- '  §fНавсегда: §a999 рублей'
 
 donate-click-message: '§d§lJETRIX §8| §fКупить привилегии можно на сайте: §cwww.jetrix.fun'
 
