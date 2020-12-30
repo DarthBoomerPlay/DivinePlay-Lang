@@ -764,8 +764,58 @@ hider-shpw: '§d§lJETRIX §8| §fВы показали всех игроков!
 
 skywars-game-full: '§cИгра переполнена!'
 skywars-game-already: '§cВы уже в игре!'
+
 skywars-game-join: '{pDName} §aприсоединился к игре §8(§b{on}§7/§b{max}§8)§a!'
+skywars-game-leave: '{pDName} §cотключился!'
+
 skywars-game-title-starting: '§c§l{count}\n§aПодготовьтесь к битве!'
 skywars-game-title-reform: '§a§lSkyWars\n{color}{type} Режим'
+
+skywars-game-spectator-title: '§c§lВЫ УМЕРЛИ\n§7Теперь вы наблюдатель!'
+
+skywars-game-title-5min: '§c5 МИНУТ ОСТАЛОСЬ'
+skywars-game-refill-title: '§aСундуки были перезаполнены!'
+
 skywars-game-broadcast-starting: '§aИгра начнется через §6{count} §aсекунд{S}.'
 skywars-game-broadcast-full: '§aИгра начнется через §6{count} §aсекунд!'
+skywars-game-broadcast-cancel: '§cТаймер остановлен, недостаточно игроков...'
+
+skywars-game-kill-action-bar: '§c{players} §aигроков осталось!'
+
+skywars-game-startmsg:
+- '§a▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+- '{center}§f§lSkyWars       '
+- ''
+- '{center}§a§lСобирайте ресурсы со своего острова'
+- '{center}§a§lи убивайте чужих игроков.'
+- '{center}§a§lВ центре можно найти Уникальное оружие.'
+- '{center}§a§lДля победы вы должны остаться последним игроком!'
+- ''
+- '§a▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+
+skywars-game-team-notallowed-solo: '§c§lОбъединение в команду запрещено в Одиночнм режиме!'
+skywars-game-team-notallowed-team: '§c§lОбъединение между командами запрещено!'
+
+skywars-game-cages-opened: '§aКлетки открыты! §cВ БОЙ!'
+
+skywars-game-end:
+- '§a▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+- '{center}§f§lSkyWars       '
+- ''
+- '{center}§aПобедитель - §7{winner}'
+- ''
+- '{center}§a§l1-й Убийца §7- {p1Name} - {p1Kills}'
+- '{center}§6§l2-й Убийца §7- {p2Name} - {p2Kills}'
+- '{center}§c§l3-й Убийца §7- {p3Name} - {p3Kills}'
+- ''
+skywars-game-rewards:
+- '{center}§f§lВознаграждение       '
+- ''
+- '§6Получено Монет: {tCoins}'
+- '§3Получено SkyWars Опыта: {tExperience}'
+- ''
+- '§7Вы поулчили §b{souls} Душ'
+- '§a▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+
+skywars-player-title-lose: '§c§lИГРА ОКОНЧЕНА\n§7В этот раз вы не победили.'
+skywars-player-title-win: '&c&lИГРА ОКОНЧЕНА\n&7Вы победили в этой игре!'
