@@ -986,3 +986,26 @@ skywars-game-killmsg-barbeku: 'подкользнулся на соусе бар
 skywars-game-killmsg-nasekomoe: 'был раздавлен игроком'
 skywars-game-killmsg-srednevekovie: 'был убит рыцарем'
 skywars-game-killmsg-zloy: 'разозлился на'
+
+skywars-game-desc-soulwell: '§bМожет быть найдено в Колодце Душ!'
+skywars-game-desc-perm: '§bМожет быть найдено только при наличии прав!'
+
+skywars-lobby-notsouls: '§cУ вас недостаточно душ!'
+skywars-lobby-already-soulwell: '§cУ вас уже есть все доступные предметы'
+
+skywars-lobby-won-def: '§eВы выиграли &6{win}&e!'
+skywars-lobby-won-bag: '§eВы выиграли {bag} &6({coins})&e!'
+
+skywars-lobby-soulwell-title: 'Колодец'
+
+skywars-lobby-soulwell-holo-title: '§bКолодец Душ'
+skywars-lobby-soulwell-holo-subtitle: '§e§lПРАВАЯ КНОПКА'
+
+skywars-all-lvlup: '&aПоздравляем! Вы достигли &3SkyWars Уровень {level}'
+skywars-all-lvl-reward-coins: '&eВы забрали награду и получили &6{coins} Монет&e!'
+
+skywars-all-rewards-title: 'SkyWars Награды'
+skywars-all-no-level-to-claim: '&cВы не можете забрать награду!'
+skywars-all-already-claimed-level: '&cВы уже забрали награду!'
+
+skywars-all-achivement
