@@ -1,21 +1,21 @@
 message-new-level:
-- '§a&l▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪'
+- '§a§l▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪'
 - '§6                               §a§k §6 §6НОВЫЙ УРОВЕНЬ! §a§k '
 - '§7                       У вас теперь §a{level} §3Jetrix уровень!'
-- '§a&l▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪'
+- '§a§l▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪'
 
-bossbar-text: '§c90% BUY MY ASS I PIDORAS'
+bossbar-text: '§cСКИДКИ 90% МНЕ ПОХУЙ Я ПИДОРАС'
 
 lobby-scoreboard-title: '§d§lJETRIX'
 lobby-scoreboard-lines:
 - ''
-- 'Rank: {rank}'
-- 'Magic Dust: §d{money}'
+- 'Ранг: {rank}'
+- 'Магическая пыль: §d{money}'
 - ''
-- 'Level: §b{level}'
-- 'XP: §a{curXP}§8/§a{needXP}'
+- 'Уровень: §b{level}'
+- 'Опыт: §a{curXP}§8/§a{needXP}'
 - ''
-- 'Server: §a{server}'
+- 'Сервер: §a{server}'
 - ''
 - '§ewww.jetrix.fun'
 
@@ -27,6 +27,8 @@ lobby-items-gadgets-title: '§aГаджеты §7(ПКМ)'
 lobby-items-gadgets-lore: '§7Нажмите, чтобы открыть меню гаджетов.'
 lobby-items-lobbys-title: '§aВыбор Лобби §7(ПКМ)'
 lobby-items-lobbys-lore: '§7Нажмите, чтобы открыть меню выбора лобби.'
+
+lobby-gamemenu-title: 'Главное меню'
 
 lobby-gamemenu-hub-title: '§aГлавное лобби'
 lobby-gamemenu-hub-lore: '§7Вернуться в Главное лобби'
@@ -85,91 +87,104 @@ menu-arrow-back-title: '§aВернуться назад'
 menu-arrow-back-lore:
 - '§7Возращает на страницу назад'
 
+menu-arrow-next-title: '§aСледующая страница'
+menu-arrow-next-lore: '§7Перемещает на страницу вперед'
+menu-arrow-nback-title: '§aПредыдущая страница'
+menu-arrow-nback-lore: '§7Перемещает на страницу назад'
+
 donatemenu-title: 'Описание привилегий'
+donatemenu-iron-title: '§8IRON'
+donatemenu-iron-lore:
+- '§7Чат префикс: §8[IRON]'
+- '§7Цвет ника: §8ТЁМНО-СЕРЫЙ'
+- '§7и много чего еще...'
+- ''
+- '§eОстальное можно узнать на'
+- '§eсайте: §awww.jetrix.fun'
+- ''
+- '§7Стоимость:'
+- '  §fМесяц: §a9 рублей'
+- '  §fНавсегда: §a39 рублей'
 donatemenu-vip-title: '§aVIP'
 donatemenu-vip-lore:
-- '§7VIP имеет обычные'
-- '§7преимущества на'
-- '§7DivinePlay'
-- ''
 - '§7Чат префикс: §a[VIP]'
 - '§7Цвет ника: §aЗЕЛЕНЫЙ'
-- '§7+90 эксклюзивных гаджетов'
-- '§7и много чего еще...'
-- ''
-- '§eОстальное можно узнать на'
-- '§eсайте: www.divineplay.ru'
-- ''
-- '§7Стоимость: §a149 рублей'
-donatemenu-vipp-title: '§aVIP§6+'
-donatemenu-vipp-lore:
-- '§7VIP+ содержит в себе'
-- '§7права VIP и собственные'
-- '§7преимущества.'
-- ''
-- '§7Чат префикс: §a[VIP§6+§a]'
-- '§7Цвет ника: §aЗЕЛЕНЫЙ'
-- '§7+180 эксклюзивных гаджетов'
 - '§7Создание гильдий'
 - '§7и много чего еще...'
 - ''
 - '§eОстальное можно узнать на'
 - '§eсайте: www.divineplay.ru'
 - ''
-- '§7Стоимость: §a349 рублей'
+- '§7Стоимость:'
+- '  §fМесяц: §a29 рублей'
+- '  §fНавсегда: §a79 рублей'
+donatemenu-premium-title: '§ePREMIUM'
+donatemenu-premium-lore:
+- '§7Чат префикс: §e[PREMIUM]'
+- '§7Цвет ника: §eЖЁЛТЫЙ'
+- '§7Создание гильдий'
+- '§7и много чего еще...'
+- ''
+- '§eОстальное можно узнать на'
+- '§eсайте: www.divineplay.ru'
+- ''
+- '§7Стоимость:'
+- '  §fМесяц: §a59 рублей'
+- '  §fНавсегда: §a129 рублей'
 donatemenu-mvp-title: '§bMVP'
 donatemenu-mvp-lore:
-- '§7MVP содержит в себе'
-- '§7права VIP, VIP+ и собственные'
-- '§7преимущества.'
-- ''
 - '§7Чат префикс: §b[MVP]'
 - '§7Цвет ника: §bГОЛУБОЙ'
-- '§7+200 эксклюзивных гаджетов'
 - '§7Создание гильдий'
-- '§7Повторы игр'
 - '§7и много чего еще...'
 - ''
 - '§eОстальное можно узнать на'
 - '§eсайте: www.divineplay.ru'
 - ''
-- '§7Стоимость: §a649 рублей'
-donatemenu-mvpp-title: '§bMVP§c+'
-donatemenu-mvpp-lore:
-- '§7MVP+ содержит в себе'
-- '§7права VIP, VIP+, MVP и собственные'
-- '§7преимущества.'
-- ''
-- '§7Чат префикс: §b[MVP§c+§b]'
-- '§7Цвет ника: §bГОЛУБОЙ'
-- '§7+220 эксклюзивных гаджетов'
-- '§7Создание гильдий'
-- '§7Повторы игр'
-- '§7и много чего еще...'
-- ''
-- '§eОстальное можно узнать на'
-- '§eсайте: www.divineplay.ru'
-- ''
-- '§7Стоимость: §a1,199 рублей'
-donatemenu-divine-title: '§6DIVINE'
-donatemenu-divine-lore:
-- '§7DIVINE содержит в себе'
-- '§7права VIP, VIP+, MVP, MVP+'
-- '§7и собственные преимущества.'
-- ''
-- '§7Чат префикс: §6[DIVINE]'
+- '§7Стоимость:'
+- '  §fМесяц: §a119 рублей'
+- '  §fНавсегда: §a580 рублей'
+donatemenu-quantum-title: '§6QUANTUM'
+donatemenu-quantum-lore:
+- '§7Чат префикс: §6[QUANTUM]'
 - '§7Цвет ника: §6ОРАНЖЕВЫЙ'
-- '§7/nick команда'
-- '§7/stream команда'
 - '§7Создание гильдий'
-- '§7Повторы игр'
-- '§7Создание собственных игр'
 - '§7и много чего еще...'
 - ''
 - '§eОстальное можно узнать на'
 - '§eсайте: www.divineplay.ru'
 - ''
-- '§7Стоимость: §a2,499 рублей'
+- '§7Стоимость:'
+- '  §fНавсегда: §a1999 рублей'
+donatemenu-quantump-title: '§6QUANTUM§c+'
+donatemenu-quantump-lore:
+- '§7Чат префикс: §6[QUANTUM§c+§6]'
+- '§7Цвет ника: §6ОРАНЖЕВЫЙ'
+- '§7Создание гильдий'
+- '§7Смена цвета плюса'
+- '§7и много чего еще...'
+- ''
+- '§eОстальное можно узнать на'
+- '§eсайте: www.divineplay.ru'
+- ''
+- '§7Стоимость:'
+- '  §fМесяц: §a400 рублей'
+- '  §f3 Месяца: §a900 рублей'
+- '  §f6 Месяцев: §a1600 рублей'
+- '  §fГод: §a1999 рублей'
+donatemenu-jetrix-title: '§dJETRIX'
+donatemenu-jetrix-lore:
+- '§7Чат префикс: §d[JETRIX]'
+- '§7Цвет ника: §dФИОЛЕТОВЫЙ'
+- '§7Создание гильдий'
+- '§7Смена цвета плюса'
+- '§7и много чего еще...'
+- ''
+- '§eОстальное можно узнать на'
+- '§eсайте: www.divineplay.ru'
+- ''
+- '§7Стоимость:'
+- '  §fНавсегда: §a999 рублей'
 
 donate-click-message: '§d§lJETRIX §8| §fКупить привилегии можно на сайте: §cwww.jetrix.fun'
 
@@ -183,15 +198,15 @@ profilemenu-head-lore:
 
 profilemenu-social-title: '§aСоциальные сети'
 profilemenu-social-lore:
-- '§7ВКонтакте: §evk.com/divine.play'
+- '§7ВКонтакте: §evk.com/jetrixnetwork'
 - '§7Дискорд: §elink.jetrix.fun'
-- '§7Сайт: §ewww.divineplay.ru'
-- '§7Форум: §eforum.divineplay.ru'
+- '§7Сайт: §ewww.jetrix.fun'
+- '§7Форум: §eforum.jetrix.fun'
 
 profilemenu-pluscolor-title: '§aЦвет ранга QUANTUM+'
 profilemenu-pluscolor-lore:
 - '§7Игроки, имеющие привилегию'
-- '§eQUANTUM§c+§7, могут разблокировать'
+- '§6QUANTUM§c+§7, могут разблокировать'
 - '§7переключение цвета своего знака +.'
 - ''
 - '§eНажмите, чтобы изменить!'
@@ -211,7 +226,7 @@ profilemenu-levels-lore:
 - '§7который необходим для поднятия'
 - '§7уровня и получение новых наград!'
 - ''
-- '§3Divine Уровень §a{currentXP} {progress} §3{percent}'
+- '§3Jetrix Уровень §a{currentXP} {progress} §3{percent}'
 - ''
 - '§7Опыта до следующего уровня: §b{needXP}'
 - ''
@@ -277,6 +292,15 @@ pluscolormenu-changed: '§d§lJETRIX §8| §fЦвет плюса изменен 
 
 gadgetsmenu-title: 'Косметика'
 
+gadgetsmenu-cancel-title: '§aОчистить текущую косметику'
+gadgetsmenu-cancel-lore:
+- '§7Очищает текущую активные'
+- '§7косметики.'
+- ''
+- '§eНажмите, чтобы выбрать!'
+
+gadgetsmenu-cancel-msg: '§d§lJETRIX §8| §fТекущая косметика была убрана'
+
 gadgetsmenu-coins-title: '§aКосметика'
 gadgetsmenu-coins-lore:
 - '§7Магическая пыль: §d{dust}'
@@ -327,12 +351,12 @@ gadgetsmenu-particles-lore:
 - '§7Разблокировано: §c{current}/{max}'
 - ''
 - '§eНажмите, чтобы посмотреть!'
-gadgetsmenu-costumes-title: '§aКостюмы'
+gadgetsmenu-costumes-title: '§aМиниатюрки'
 gadgetsmenu-costumes-lore:
-- '§7Собирайте костюмы и носите'
-- '§7их в лобби, чтобы получать'
-- '§7много восхищений от других'
-- '§7игроков!'
+- '§7Собирайте миниатюрных персонажей'
+- '§7и одевайте их в лобби, чтобы'
+- '§7они летали вместе с вами по всем'
+- '§7лобби!'
 - ''
 - '§7Разблокировано: §c{current}/{max}'
 - ''
@@ -353,29 +377,633 @@ gadgetsmenu-example-lore:
 - '§7Редкость: {rare}'
 - ''
 
-gadgetsmenu-rarity-common: 'ОБЫЧНЫЙ'
-gadgetsmenu-rarity-rare: 'РЕДКИЙ'
-gadgetsmenu-rarity-epic: 'ЭПИЧЕСКИЙ'
-gadgetsmenu-rarity-legendary: 'ЛЕГЕНДАРНЫЙ'
+gadgetsmenu-rarity-common: '§aОБЫЧНЫЙ'
+gadgetsmenu-rarity-rare: '§eРЕДКИЙ'
+gadgetsmenu-rarity-epic: '§5ЭПИЧЕСКИЙ'
+gadgetsmenu-rarity-legendary: '§6ЛЕГЕНДАРНЫЙ'
 
-gadgets-pets-cat-title: 'Кот'
+gadgetsmenu-pets-cat-title: 'Кот'
 gadgets-pets-cat-customname: '§aКот {player}'
-gadgets-pets-dog-title: 'Собака'
+gadgetsmenu-pets-dog-title: 'Собака'
 gadgets-pets-dog-customname: '§aСобака {player}'
-gadgets-pets-chicken-title: 'Курица'
+gadgetsmenu-pets-chicken-title: 'Курица'
 gadgets-pets-chicken-customname: '§aКурица {player}'
-gadgets-pets-pig-title: 'Свинья'
+gadgetsmenu-pets-pig-title: 'Свинья'
 gadgets-pets-pig-customname: '§aСвинья {player}'
-gadgets-pets-rabbit-title: 'Кролик'
+gadgetsmenu-pets-rabbit-title: 'Кролик'
 gadgets-pets-rabbit-customname: '§aКролик {player}'
-gadgets-pets-villager-title: 'Житель'
+gadgetsmenu-pets-villager-title: 'Житель'
 gadgets-pets-villager-customname: '§aЖитель {player}'
-gadgets-pets-sheep-title: 'Овца'
+gadgetsmenu-pets-sheep-title: 'Овца'
 gadgets-pets-sheep-customname: '§aОвца {player}'
 
+gadgetsmenu-morph-pig-title: 'Свинья'
+gadgetsmenu-morph-cow-title: 'Корова'
+gadgetsmenu-morph-enderman-title: 'Эндерман'
+gadgetsmenu-morph-chicken-title: 'Курица'
+gadgetsmenu-morph-spider-title: 'Паук'
+gadgetsmenu-morph-sheep-title: 'Овца'
+gadgetsmenu-morph-creeper-title: 'Крипер'
+gadgetsmenu-morph-ifrit-title: 'Ифрит'
+gadgetsmenu-morph-irongolem-title: 'Железный Голем'
+
+gadgetsmenu-gadget-batblaster-title: 'Бластер'
+gadgetsmenu-gadget-paintballgun-title: 'Пейнтбольный Бластер'
+gadgetsmenu-gadget-nyancat-title: 'Ньян Кэт'
+gadgetsmenu-gadget-sims-title: 'Симс'
+gadgetsmenu-gadget-tsunami-title: 'Цунами'
+gadgetsmenu-gadget-iceblaster-title: 'Ледяной Бластер'
+gadgetsmenu-gadget-ghostattack-title: 'Привиденья'
+gadgetsmenu-gadget-cannon-title: 'Пушка'
+
+gadgetsmenu-particle-mage-title: 'Маг'
+gadgetsmenu-particle-magicalspiral-title: 'Магическая Спираль'
+gadgetsmenu-particle-goldenaura-title: 'Золотая Аура'
+gadgetsmenu-particle-bloodhelix-title: 'Кровавая Спираль'
+gadgetsmenu-particle-santahat-title: 'Шапка Санты'
+gadgetsmenu-particle-flamering-title: 'Огненная Обертка'
+gadgetsmenu-particle-cloud-title: 'Гроза'
+gadgetsmenu-particle-yingyang-title: 'Инь-Янь'
+gadgetsmenu-particle-wings-title: 'Крылья'
+
+gadgetsmenu-miniature-panda-title: 'Панда'
+gadgetsmenu-miniature-ore-title: 'Руда'
+gadgetsmenu-miniature-mage-title: 'Маг'
+gadgetsmenu-miniature-dracula-title: 'Дракула'
+gadgetsmenu-miniature-dragon-title: 'Дракон'
+gadgetsmenu-miniature-ghost-title: 'Призрак'
+gadgetsmenu-miniature-herobrine-title: 'Херобрин'
+gadgetsmenu-miniature-itzdarth-title: 'ItzDarth_'
+gadgetsmenu-miniature-flardiev-title: 'Flardiev'
+
 gadgetsmenu-petsmenu-title: 'Питомцы'
+gadgetsmenu-morphmenu-title: 'Превращения'
+gadgetsmenu-gadgetmenu-title: 'Гаджеты'
+gadgetsmenu-particlemenu-title: 'Частицы'
+gadgetsmenu-miniaturemenu-title: 'Миниатюрки'
+
+gadgetsmenu-gadgetmenu-pkm: '§7(ПКМ)'
+gadgetsmenu-gadget-cooldown: '§d§lJETRIX §8| §fВы сможете использовать через §a{s} сек.'
 
 gadgetsmenu-equip: '§d§lJETRIX §8| §fВы экипировали {gadget}'
 gadgetsmenu-dequip: '§d§lJETRIX §8| §fВы убрали {gadget}'
 
+nickbook-nick: '§d§lJETRIX §8| §fТеперь вы: §a{fake}'
+nickbook-unnick: '§d§lJETRIX §8| §fВы вернули свой ник'
+
+nickbook-menuG-title: 'Выберите првиилегию'
+nickbook-menuP-title: 'Выберите тип ника'
+
+nickbook-select: '§eНажмите, чтобы выбрать!'
+
+nickbook-menuB-custom-lore: '§cТребуется §c[§fYOUTUBE§4+§c]'
+nickbook-menuB-custom: 'Установить ник самому'
+nickbook-menuB-random: 'Установить случайный ник'
+
+nickbook-sign-lines:
+- ''
+- '^^^^^^^^^^^^^^^'
+- 'Введите нужный'
+- 'вам ник'
+
 lobby-donater-join: '{player} §6подключился к лобби!'
+
+treasure-bossbar-text: '§fОсталось §a{sec} §fсекунд'
+
+treasuremenu-title: 'Меню сундуков'
+
+treasuremenu-common-title: '§aОбычный сундук'
+treasuremenu-common-lore:
+- '§7Обычный сундук, из которого'
+- '§7можно получить гаджеты и'
+- '§7небольшое кол-во магической пыли'
+- '§7и опыта'
+- ''
+- '§cВнимание! При получении уже имеющегося'
+- '§cгаджета вы получите 120 магической пыли!'
+- ''
+- '§7Доступно сундуков: §a{key}'
+- ''
+- '§eНажмите, чтобы открыть!'
+
+treasuremenu-rare-title: '§eРедкий сундук'
+treasuremenu-rare-lore:
+- '§7Редкий сундук, из которого'
+- '§7можно получить гаджеты и'
+- '§7умеренное кол-во магической пыли'
+- '§7и опыта'
+- ''
+- '§cВнимание! При получении уже имеющегося'
+- '§cгаджета вы получите 350 магической пыли!'
+- ''
+- '§7Доступно сундуков: §a{key}'
+- ''
+- '§eНажмите, чтобы открыть!'
+
+treasuremenu-mythic-title: '§dМагический сундук'
+treasuremenu-mythic-lore:
+- '§7Магический сундук, из которого'
+- '§7можно получить гаджеты и'
+- '§7большое кол-во магической пыли'
+- '§7и опыта'
+- ''
+- '§cВнимание! При получении уже имеющегося'
+- '§cгаджета вы получите 500 магической пыли!'
+- ''
+- '§7Доступно сундуков: §a{key}'
+- ''
+- '§eНажмите, чтобы открыть!'
+
+treasuremenu-shop-title: '§aМагазин сундуков'
+treasuremenu-shop-lore:
+- '§7Магическая пыль может быть'
+- '§7потрачена на сундуки, из'
+- '§7которых можно получить'
+- '§7различную косметику.'
+- ''
+- '§7Магическая пыль: §d{dust}'
+- ''
+- '§eНажмите, чтобы открыть!'
+
+treasureshop-lore:
+- ''
+- '§7Стоимость: §d{cost}'
+- ''
+- '§7У вас: §a{case}'
+- ''
+- '§eНажмите, чтобы купить!'
+
+treasureshop-title: 'Магазин сундуков'
+
+treasurechest-opened: '§d§lJETRIX §8| §fДанный сундук уже открывает другой игрок'
+treasurechest-not: '§d§lJETRIX §8| §fУ вас нету данных сундуков'
+
+treasurechest-notdust: '§d§lJETRIX §8| §fУ вас недостаточно магической пыли'
+treasurechest-buy: '§d§lJETRIX §8| §fВы успешно купили {case}'
+
+achivements-message:
+- '§a§l▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪'
+- '{center}§a§lДостижение разблокировано'
+- ''
+- '{center}§e§l{name}'
+- '{center}§7{description}'
+- '§a§l▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪'
+
+achivements-reward-money: '§d+{c} магической пыли'
+
+achivements-menumain-title: 'Достижения'
+achivements-menumain-global-title: '§aГлобальные достижения'
+achivements-menumain-global-lore:
+- '§7Достижения, которые могут'
+- '§7быть выполнены на любом'
+- '§7сервере.'
+- ''
+- '§eНажмите, чтобы открыть!'
+achivements-menumain-lobby-title: '§aLobby достижения'
+achivements-menumain-lobby-lore:
+- '§7Достижения, которые могут'
+- '§7быть выполнены в Lobby'
+- '§7серверах.'
+- ''
+- '§eНажмите, чтобы открыть!'
+achivements-menumain-secret-title: '§aСекретные достижения'
+achivements-menumain-secret-lore:
+- '§7Достижения, которые не'
+- '§7описаны. Вам придется'
+- '§7поразмыслить, чтобы'
+- '§7выполнить их.'
+- ''
+- '§eНажмите, чтобы открыть!'
+achivements-menumain-skywars-title: '§aSkyWars достижения'
+achivements-menumain-skywars-lore:
+- '§7Достижения, которые могут'
+- '§7быть выполнены на SkyWars'
+- '§7серверах.'
+- ''
+- '§eНажмите, чтобы открыть!'
+achivements-menumain-bedwars-title: '§aBedWars достижения'
+achivements-menumain-bedwars-lore:
+- '§7Достижения, которые могут'
+- '§7быть выполнены на BedWars'
+- '§7серверах.'
+- ''
+- '§eНажмите, чтобы открыть!'
+
+achivements-defaultmenu-lore:
+- '{description}'
+- ''
+- '§7Награда:'
+- '{rewards}'
+- ''
+- '{status}'
+
+achivements-defaultmenu-status-a: '§aРазблокировано!'
+achivements-defaultmenu-status-b: '§cЗаблокировано!'
+
+achivements-menu-global-title: 'Глобальные достижения'
+achivements-menu-secret-title: 'Секретные достижения'
+achivements-menu-lobby-title: 'Lobby достижения'
+achivements-menu-skywars-title: 'SkyWars достижения'
+achivements-menu-bedwars-title: 'BedWars достижения'
+
+achivements-global-addfirstfriend-title: 'Дружба - это сила'
+achivements-global-addfirstfriend-description: 'Добавьте своего первого друга.'
+achivements-global-addfirstfriend-lore:
+- '§7Добавьте своего первого друга.'
+achivements-global-buyquantumplus-title: 'Купить QUANTUM+'
+achivements-global-buyquantumplus-description: 'Купите QUANTUM+.'
+achivements-global-buyquantumplus-lore:
+- '§7Купите §6QUANTUM§c+.'
+achivements-global-start-title: 'Новичок'
+achivements-global-start-description: 'Достигнуть 10 Уровень.'
+achivements-global-start-lore:
+- '§7Достигнуть 10 Уровень.'
+achivements-global-bivaliy-title: 'Бывалый'
+achivements-global-bivaliy-description: 'Достигнуть 30 Уровень.'
+achivements-global-bivaliy-lore:
+- '§7Достигнуть 30 Уровень.'
+achivements-global-old-title: 'Старичок'
+achivements-global-old-description: 'Достигнуть 50 Уровень.'
+achivements-global-old-lore:
+- '§7Достигнуть 50 Уровень.'
+achivements-global-veteran-title: 'Ветеран'
+achivements-global-veteran-description: 'Достигнуть 100 Уровень.'
+achivements-global-veteran-lore:
+- '§7Достигнуть 100 Уровень.'
+achivements-global-popular-title: 'Популярный'
+achivements-global-popular-description: 'Добавить Ютубера в друзья.'
+achivements-global-popular-lore:
+- '§7Добавить Ютубера в друзья.'
+achivements-global-semya-title: 'Большая семья'
+achivements-global-semya-description: 'Добавить 20 друзей.'
+achivements-global-semya-lore:
+- '§7Добавить 20 друзей.'
+achivements-global-party-title: 'Вечеринка'
+achivements-global-party-description: 'Создать группу.'
+achivements-global-party-lore:
+- '§7Создать группу.'
+
+
+
+achivements-secret-findleha-title: 'Найти Лёху'
+achivements-secret-findleha-description: 'Найдите Лёху в лобби.'
+achivements-secret-findleha-lore:
+- '§7Найдите Лёху в лобби.'
+achivements-secret-cmd-title: 'Секретная команда'
+achivements-secret-cmd-description: 'Пропишите секретную команду.'
+achivements-secret-cmd-lore:
+- '§7Пропишите секретную команду.'
+achivements-secret-seeblack-title: 'Увидеть пустоту'
+achivements-secret-seeblack-description: 'Упасть в пустоту в лобби.'
+achivements-secret-seeblack-lore:
+- '§7Упасть в пустоту в лобби.'
+achivements-secret-pushtplayers-title: 'Забивной'
+achivements-secret-pushtplayers-description: 'Ударить 10 игроков.'
+achivements-secret-pushtplayers-lore:
+- '§7Ударить 10 игроков.'
+achivements-secret-pushyoutuber-title: 'Избить ютубера'
+achivements-secret-pushyoutuber-description: 'Ударить Ютубера на любом сервере.'
+achivements-secret-pushyoutuber-lore:
+- '§7Ударить Ютубера в лобби.'
+achivements-secret-seeowner-title: 'Увидеть OWNER-а'
+achivements-secret-seeowner-description: 'Увидеть OWNER-а на любом сервере.'
+achivements-secret-seeowner-lore:
+- '§7Увидеть OWNER-а на любом сервере.'
+
+
+
+achivements-lobby-openchest-title: 'Первый сундук'
+achivements-lobby-openchest-description: 'Откройте свой первый сундук.'
+achivements-lobby-openchest-lore:
+- '§7Откройте свой первый сундук.'
+achivements-lobby-unlockonegadget-title: 'Первая косметика'
+achivements-lobby-unlockonegadget-description: 'Разблокируйте первую вашу косметику.'
+achivements-lobby-unlockonegadget-lore:
+- '§7Разблокируйте первую вашу косметику.'
+
+
+
+achivements-skywars-killera-title: 'SkyWars Убийца I'
+achivements-skywars-killera-description: 'Убить 100 игроков на SkyWars.'
+achivements-skywars-killera-lore:
+- '§7Убить 100 игроков на SkyWars.'
+achivements-skywars-killerb-title: 'SkyWars Убийца II'
+achivements-skywars-killerb-description: 'Убить 200 игроков на SkyWars.'
+achivements-skywars-killerb-lore:
+- '§7Убить 200 игроков на SkyWars.'
+achivements-skywars-killerc-title: 'SkyWars Убийца III'
+achivements-skywars-killerc-description: 'Убить 500 игроков на SkyWars.'
+achivements-skywars-killerc-lore:
+- '§7Убить 500 игроков на SkyWars.'
+achivements-skywars-killerd-title: 'SkyWars Убийца IV'
+achivements-skywars-killerd-description: 'Убить 750 игроков на SkyWars.'
+achivements-skywars-killerd-lore:
+- '§7Убить 750 игроков на SkyWars.'
+achivements-skywars-killere-title: 'SkyWars Убийца VI'
+achivements-skywars-killere-description: 'Убить 1,000 игроков на SkyWars.'
+achivements-skywars-killere-lore:
+- '§7Убить 1,000 игроков на SkyWars.'
+
+
+
+achivements-bedwars-killera-title: 'BedWars Убийца I'
+achivements-bedwars-killera-description: 'Убить 100 игроков на BedWars.'
+achivements-bedwars-killera-lore:
+- '§7Убить 100 игроков на BedWars.'
+achivements-bedwars-killerb-title: 'BedWars Убийца II'
+achivements-bedwars-killerb-description: 'Убить 200 игроков на BedWars.'
+achivements-bedwars-killerb-lore:
+- '§7Убить 200 игроков на BedWars.'
+achivements-bedwars-killerc-title: 'BedWars Убийца III'
+achivements-bedwars-killerc-description: 'Убить 500 игроков на BedWars.'
+achivements-bedwars-killerc-lore:
+- '§7Убить 500 игроков на BedWars.'
+achivements-bedwars-killerd-title: 'BedWars Убийца IV'
+achivements-bedwars-killerd-description: 'Убить 750 игроков на BedWars.'
+achivements-bedwars-killerd-lore:
+- '§7Убить 750 игроков на BedWars.'
+achivements-bedwars-killere-title: 'BedWars Убийца VI'
+achivements-bedwars-killere-description: 'Убить 1,000 игроков на BedWars.'
+achivements-bedwars-killere-lore:
+- '§7Убить 1,000 игроков на BedWars.'
+
+levelrewards-menu-title: 'Награды за уровень'
+levelrewards-menuitem-title: 'Награда за {l}-й уровень'
+levelrewards-menuitem-statusA: '§aВы уже получили эту награду!'
+levelrewards-menuitem-statusC: '§eНажмите, чтобы получить награду!'
+levelrewards-menuitem-statusB: '§cВы еще не можете получить эту награду!'
+levelrewards-menuitem-reward-dust: '§d+{dust} магической пыли'
+levelrewards-menuitem-reward-common: '§7+§6{chest} §fОбычных сундуков'
+levelrewards-menuitem-reward-rare: '§7+§6{chest} §eРедких сундуков'
+levelrewards-menuitem-reward-mythic: '§7+§6{chest} §dМагических сундуков'
+
+levelrewards-menuitem-msg-statusC: '§d§lJETRIX §8| §fВы успешно получили награду!'
+levelrewards-menuitem-msg-statusA: '§d§lJETRIX §8| §fВы еще не можете получить эту награду'
+levelrewards-menuitem-msg-statusB: '§d§lJETRIX §8| §fВы уже получили эту награду'
+
+selecterservermenu-title: 'Выбор сервера'
+selecterservermenu-lore:
+- '§fСтатус: {status}'
+- '§fОнлайн: {online}'
+- ''
+- '{click}'
+
+selecterservermenu-status-avaible: '§aДоступен'
+selecterservermenu-status-unavaible: '§cНедоступен'
+
+selecterservermenu-click-avaible: '§eНажмите, чтобы подключится!'
+selecterservermenu-click-unavaible: '§cСервер переполнен!'
+selecterservermenu-click-already: '§aВы уже находитесь тут!'
+
+hider-hide-item-title: '§aСкрыть игроков §7(ПКМ)'
+hider-hide-item-lore: '§7Нажмите, чтобы скрыть игроков.'
+hider-show-item-title: '§aПоказать игроков §7(ПКМ)'
+hider-show-item-lore: '§7Нажмите, чтобы показать игроков.'
+hider-hide: '§d§lJETRIX §8| §fВы скрыли всех игроков!'
+hider-shpw: '§d§lJETRIX §8| §fВы показали всех игроков!'
+
+skywars-game-full: '§cИгра переполнена!'
+skywars-game-already: '§cВы уже в игре!'
+
+skywars-game-join: '{pDName} §aприсоединился к игре §8(§b{on}§7/§b{max}§8)§a!'
+skywars-game-leave: '{pDName} §cотключился!'
+
+skywars-game-title-starting: '§c§l{count}\n§aПодготовьтесь к битве!'
+skywars-game-title-reform: '§a§lSkyWars\n{color}{type} Режим'
+
+skywars-game-spectator-title: '§c§lВЫ УМЕРЛИ\n§7Теперь вы наблюдатель!'
+
+skywars-game-title-5min: '§c5 МИНУТ ОСТАЛОСЬ'
+skywars-game-refill-title: '§aСундуки были перезаполнены!'
+
+skywars-game-broadcast-starting: '§aИгра начнется через §6{count} §aсекунд{S}.'
+skywars-game-broadcast-full: '§aИгра начнется через §6{count} §aсекунд!'
+skywars-game-broadcast-cancel: '§cТаймер остановлен, недостаточно игроков...'
+
+skywars-game-kill-action-bar: '§c{players} §aигроков осталось!'
+
+skywars-game-startmsg:
+- '§a▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+- '{center}§f§lSkyWars       '
+- ''
+- '{center}§a§lСобирайте ресурсы со своего острова'
+- '{center}§a§lи убивайте чужих игроков.'
+- '{center}§a§lВ центре можно найти Уникальное оружие.'
+- '{center}§a§lДля победы вы должны остаться последним игроком!'
+- ''
+- '§a▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+
+skywars-game-team-notallowed-solo: '§c§lОбъединение в команду запрещено в Одиночнм режиме!'
+skywars-game-team-notallowed-team: '§c§lОбъединение между командами запрещено!'
+
+skywars-game-cages-opened: '§aКлетки открыты! §cВ БОЙ!'
+
+skywars-game-end:
+- '§a▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+- '{center}§f§lSkyWars       '
+- ''
+- '{center}§aПобедитель - §7{winner}'
+- ''
+- '{center}§a§l1-й Убийца §7- {p1Name} - {p1Kills}'
+- '{center}§6§l2-й Убийца §7- {p2Name} - {p2Kills}'
+- '{center}§c§l3-й Убийца §7- {p3Name} - {p3Kills}'
+- ''
+skywars-game-rewards:
+- '{center}§f§lВознаграждение       '
+- ''
+- '§6Получено Монет: {tCoins}'
+- '§3Получено SkyWars Опыта: {tExperience}'
+- ''
+- '§7Вы поулчили §b{souls} Душ'
+- '§a▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+
+skywars-player-title-lose: '§c§lИГРА ОКОНЧЕНА\n§7В этот раз вы не победили.'
+skywars-player-title-win: '§c§lИГРА ОКОНЧЕНА\n§7Вы победили в этой игре!'
+
+skywars-player-vote-format: '§aНажмите для голоса!'
+skywars-player-vote-message: '§bГолосуйте за эту карту:'
+
+skywars-player-want-play-again: '§aХотите сыграть еще раз? '
+skywars-player-want-play-again-died: '§cВы умерли! §aХотите сыграть еще раз? '
+skywars-player-want-play-again-click: '§b§lНАЖМИТЕ СЮДА!'
+skywars-player-want-play-again-hover: 'Нажмите для повторной игры в SkyWars'
+
+skywars-player-play-again-null: '§cНет доступных игр в данный момент!'
+
+skywars-menu-cages-title: 'Клетки'
+skywars-menu-ballons-title: 'Шарики'
+skywars-menu-mount-title: 'Крики смерти'
+skywars-menu-killeffects-title: 'Эффекты при убийстве'
+skywars-menu-killmsg-title: 'Сообщения об убийстве'
+skywars-menu-proj-title: 'Следы от снаряда'
+skywars-menu-windances-title: 'Победные танцы'
+skywars-menu-kitsolo-title: 'Наборы - Одиночный режим'
+skywars-menu-kitteam-title: 'Наборы - Двойной режим'
+skywars-menu-perksolo-title: 'Улучшения - Одиночный режим'
+skywars-menu-perkteam-title: 'Улучшения - Двойной режим'
+
+skywars-menu-selected: '§6Вы выбрали §a{selected}§6!'
+skywars-menu-unlocked: '§6Вы разблокировали §a{unlocked}§6!'
+skywars-menu-notcoins: '§cУ вас недостаточно монет!'
+
+skywars-menu-cosmetic-title: 'SkyWars Косметика'
+skywars-menu-cosmetic-cages-title: '§aКлетки'
+skywars-menu-cosmetic-cages-lore:
+- '§7Измение вид своих'
+- '§7клеток.'
+- ''
+- '§7Сейчас выбрано:'
+- '§a{cur}'
+- ''
+- '§eНажмите для просмотра!'
+skywars-menu-cosmetic-proj-title: '§aСледы от снаряда'
+skywars-menu-cosmetic-proj-lore:
+- '§7Измените эффект частицы'
+- '§7следа от снаряда'
+- ''
+- '§7Сейчас выбрано:'
+- '§a{cur}'
+- ''
+- '§eНажмите для просмотра!'
+skywars-menu-cosmetic-ballons-title: '§aШарики'
+skywars-menu-cosmetic-ballons-lore:
+- '§7Прикрепите шар к'
+- '§7своему острову'
+- ''
+- '§7Сейчас выбрано:'
+- '§a{cur}'
+- ''
+- '§eНажмите для просмотра!'
+skywars-menu-cosmetic-killeffects-title: '§aЭффекты при убийстве'
+skywars-menu-cosmetic-killeffects-lore:
+- '§7Выбирете эффект, который'
+- '§7будет появляться после'
+- '§7убийства игрока.'
+- ''
+- '§7Сейчас выбрано:'
+- '§a{cur}'
+- ''
+skywars-menu-cosmetic-windances-title: '§aПобедные танцы'
+skywars-menu-cosmetic-windances-lore:
+- '§7Празднуйте, злорадствую и'
+- '§7показывая другим игрокам,'
+- '§7что Вы победили!'
+- ''
+- '§7Сейчас выбрано:'
+- '§a{cur}'
+- ''
+- '§eНажмите для просмотра!'
+skywars-menu-cosmetic-mount-title: '§aКрики смерти'
+skywars-menu-cosmetic-mount-lore:
+- '§7Пусть другие знают,'
+- '§7насколько отчаянны Ваши'
+- '§7слезы, каждый раз когда Вы'
+- '§7плачете после смерти!'
+- ''
+- '§7Сейчас выбрано:'
+- '§a{cur}'
+- ''
+- '§eНажмите для просмотра!'
+skywars-menu-cosmetic-dmsg-title: '§aСообщения об убийстве'
+skywars-menu-cosmetic-dmsg-lore:
+- '§7Выбирете набор сообщений об,'
+- '§7убийстве, чтобы заменить'
+- '§7стандартные фразы в чате'
+- '§7когда Вы убиваете игроков!'
+- ''
+- '§7Сейчас выбрано:'
+- '§a{cur}'
+- ''
+- '§eНажмите для просмотра!'
+
+skywars-menu-default-lore:
+- ''
+- '§7Редкость: {rarity}'
+- '§7Стоимость: §6{cost}'
+- ''
+- '§aНажмите для выбора!'
+
+skywars-menu-default-unlocked-lore:
+- ''
+- '§7Редкость: {rarity}'
+- '§7Стоимость: §6{cost}'
+- ''
+- '§eНажмите для покупки!'
+
+skywars-menu-default-already-lore:
+- ''
+- '§7Редкость: {rarity}'
+- '§7Стоимость: §6{cost}'
+- ''
+- '§eУже имеется!'
+
+skywars-menu-default-ranked-lore:
+- ''
+- '§7Редкость: {rarity}'
+- '§7Стоимость: §6{cost}'
+- ''
+- '§cНаграда за участие в Рейтинговом Режиме!'
+
+skywars-menu-confirm-accept: '§aПринять'
+skywars-menu-confirm-decline: '§cОтменить'
+skywars-menu-back-title: '§aВернуться'
+skywars-menu-coins-title: '§7Монеты: §6{coins}'
+skywars-menu-coins-lore: '§6www.jetrix.fun'
+
+skywars-menu-select-kit: '§6Вы выбрали Набор §a{kit}§6!'
+skywars-menu-kit-soulwell: '§cЭтот Набор может быть найден в §bКолодце Душ§c!'
+skywars-menu-kit-shop: '§cЭтот набор доступен в Магазине!'
+
+skywars-menu-perks-solo: 'Улучшения - Одиночный режим'
+skywars-menu-perks-team: 'Улучшения - Двойной режим'
+skywars-menu-perks-solo-button: 'Одиночный режим'
+skywars-menu-perks-team-button: 'Двойной режим'
+
+skywars-menu-perks-select-button-lore: 
+- '§7Играть в {type}!'
+- ''
+- '§7Онлайн: §a{online}'
+- '§eНажмите, чтобы играть!'
+
+skywars-menu-already-have-kit: '§cУ вас уже есть {kit}!'
+
+skywars-game-compass-null: '§cИгрок не найден!'
+skywars-game-compass-track: '§aИгрок: {name}'
+
+skywars-game-kill-reward: '§aВы получили §6{coins} Монет'
+
+skywars-lobby-wait: '§cПодождите {time}с для использования'
+
+skywars-game-killmsg-void: 'упал!'
+skywars-game-killmsg-suicide: 'сделал суицид!'
+skywars-game-killmsg-standart: 'был убит игроком'
+skywars-game-killmsg-fire: 'был превращен в пепел игроком'
+skywars-game-killmsg-west: 'был нафарширован свинцом благодаря'
+skywars-game-killmsg-love: 'получил холодный прием от'
+skywars-game-killmsg-pirate: 'был убит пушечным ядром игрока'
+skywars-game-killmsg-galactic: 'был превращен в космическую пыль игроком'
+skywars-game-killmsg-barbeku: 'подкользнулся на соусе барбекю игрока'
+skywars-game-killmsg-nasekomoe: 'был раздавлен игроком'
+skywars-game-killmsg-srednevekovie: 'был убит рыцарем'
+skywars-game-killmsg-zloy: 'разозлился на'
+
+skywars-game-desc-soulwell: '§bМожет быть найдено в Колодце Душ!'
+skywars-game-desc-perm: '§bМожет быть найдено только при наличии прав!'
+
+skywars-lobby-notsouls: '§cУ вас недостаточно душ!'
+skywars-lobby-already-soulwell: '§cУ вас уже есть все доступные предметы'
+
+skywars-lobby-won-def: '§eВы выиграли §6{win}§e!'
+skywars-lobby-won-bag: '§eВы выиграли {bag} §6({coins})§e!'
+
+skywars-lobby-soulwell-title: 'Колодец'
+
+skywars-lobby-soulwell-holo-title: '§bКолодец Душ'
+skywars-lobby-soulwell-holo-subtitle: '§e§lПРАВАЯ КНОПКА'
+
+skywars-all-lvlup: '§aПоздравляем! Вы достигли §3SkyWars Уровень {level}'
+skywars-all-lvl-reward-coins: '§eВы забрали награду и получили §6{coins} Монет§e!'
+
+skywars-all-rewards-title: 'SkyWars Награды'
+skywars-all-no-level-to-claim: '§cВы не можете забрать награду!'
+skywars-all-already-claimed-level: '§cВы уже забрали награду!'
