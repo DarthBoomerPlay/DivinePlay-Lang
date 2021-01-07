@@ -970,9 +970,9 @@ skywars-menu-already-have-kit: '§cУ вас уже есть {kit}!'
 skywars-game-compass-null: '§cИгрок не найден!'
 skywars-game-compass-track: '§aИгрок: {name}'
 
-skywars-game-kill-reward: '&aВы получили &6{coins} Монет'
+skywars-game-kill-reward: '§aВы получили §6{coins} Монет'
 
-skywars-lobby-wait: '&cПодождите {time}с для использования'
+skywars-lobby-wait: '§cПодождите {time}с для использования'
 
 skywars-game-killmsg-void: 'упал!'
 skywars-game-killmsg-suicide: 'сделал суицид!'
@@ -993,19 +993,17 @@ skywars-game-desc-perm: '§bМожет быть найдено только пр
 skywars-lobby-notsouls: '§cУ вас недостаточно душ!'
 skywars-lobby-already-soulwell: '§cУ вас уже есть все доступные предметы'
 
-skywars-lobby-won-def: '§eВы выиграли &6{win}&e!'
-skywars-lobby-won-bag: '§eВы выиграли {bag} &6({coins})&e!'
+skywars-lobby-won-def: '§eВы выиграли §6{win}§e!'
+skywars-lobby-won-bag: '§eВы выиграли {bag} §6({coins})§e!'
 
 skywars-lobby-soulwell-title: 'Колодец'
 
 skywars-lobby-soulwell-holo-title: '§bКолодец Душ'
 skywars-lobby-soulwell-holo-subtitle: '§e§lПРАВАЯ КНОПКА'
 
-skywars-all-lvlup: '&aПоздравляем! Вы достигли &3SkyWars Уровень {level}'
-skywars-all-lvl-reward-coins: '&eВы забрали награду и получили &6{coins} Монет&e!'
+skywars-all-lvlup: '§aПоздравляем! Вы достигли §3SkyWars Уровень {level}'
+skywars-all-lvl-reward-coins: '§eВы забрали награду и получили §6{coins} Монет§e!'
 
 skywars-all-rewards-title: 'SkyWars Награды'
-skywars-all-no-level-to-claim: '&cВы не можете забрать награду!'
-skywars-all-already-claimed-level: '&cВы уже забрали награду!'
-
-skywars-all-achivement
+skywars-all-no-level-to-claim: '§cВы не можете забрать награду!'
+skywars-all-already-claimed-level: '§cВы уже забрали награду!'
